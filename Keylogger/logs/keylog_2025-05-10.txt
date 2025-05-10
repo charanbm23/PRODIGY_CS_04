@@ -1,0 +1,5 @@
+[INFO] Log file created at 2025-05-10 20:44:50
+[2025-05-10 20:44:50] Screenshot taken: logs\screenshot_2025-05-10_20-44-50.png
+[2025-05-10 20:46:53] Window: Simple Keylogger | Key: 6
+[2025-05-10 20:46:53] Window: Simple Keylogger | Key: 0
+[2025-05-10 20:46:53] Window: Simple Keylogger | Key: Key.enter

